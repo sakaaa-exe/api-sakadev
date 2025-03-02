@@ -3,18 +3,27 @@
     const tableData = [
       {
         day: 1,
-        sahur: "-",
-        sholat: { subuh: "-", dzuhur: "-", ashar: "-", maghrib: "-", isya: "-" },
-        tarawih: "-",
-        puasa: "-",
-        buka: "-",
+        sahur: "•",
+        sholat: { subuh: "•", dzuhur: "•", ashar: "•", maghrib: "-", isya: "•" },
+        tarawih: "•",
+        puasa: "•",
+        buka: "•",
         ngaji: "-"
       },
       {
         day: 2,
-        sahur: "-",
+        sahur: "•",
+        sholat: { subuh: "•", dzuhur: "•", ashar: "•", maghrib: "-", isya: "•" },
+        tarawih: "•",
+        puasa: "•",
+        buka: "•",
+        ngaji: "-"
+      },
+      {
+        day: 3,
+        sahur: "•",
         sholat: { subuh: "-", dzuhur: "-", ashar: "-", maghrib: "-", isya: "-" },
-        tarawih: "-",
+        tarawih: "•",
         puasa: "-",
         buka: "-",
         ngaji: "-"
